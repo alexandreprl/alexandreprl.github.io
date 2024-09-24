@@ -45,7 +45,7 @@ interests:
   - Self-Organizing Systems
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Artificial Intelligence
     institution: IRIT, Université Toulouse 3 Paul Sabatier
     date_start: 2013-11-01
     date_end: 2017-02-09
