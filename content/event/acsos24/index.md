@@ -1,5 +1,6 @@
 ---
-title: An Adaptive Multi-Agent System for Dynamic Preference Learning: Application to Mobility
+title: |
+    An Adaptive Multi-Agent System for Dynamic Preference Learning: Application to Mobility
 
 event: 5th IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2024
 event_url: https://2024.acsos.org/
