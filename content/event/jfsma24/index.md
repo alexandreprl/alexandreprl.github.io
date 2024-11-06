@@ -1,6 +1,6 @@
 ---
 title: |
-  Système multi-agent adaptatif pour la détection de régularités dun utilisateur pour les applications de mobilité
+  Système multi-agent adaptatif pour la détection de régularités dun utilisateur pour les applications de mobilité (en: Adaptive multi-agent system for detecting user regularities for mobility applications)
 
 event: |
     JFSMA 2024: 32èmes Journées Francophones sur les Systèmes Multi-Agents

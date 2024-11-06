@@ -52,9 +52,9 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Read paper
+   url: https://www.researchgate.net/publication/325851056_AMAK_-_A_Framework_for_Developing_Robust_and_Open_Adaptive_Multi-agent_Systems
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -68,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['amak']
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
