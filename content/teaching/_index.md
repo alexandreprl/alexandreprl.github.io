@@ -4,14 +4,18 @@ type: docs
 ---
 
 ## Multi-Agent System
-Master 1 IAFA, Université Toulouse 3 Paul Sabatier
+_Master 1 IAFA, Université Toulouse 3 Paul Sabatier & Master 2 ISM-AG, Université Toulouse 2 Jean Jaurès_
 
-Exercises :
+Java:
+- Framework: https://github.com/alexandreprl/amak
 - https://github.com/alexandreprl/amak-exercise-philosophers-dinner
 - https://github.com/alexandreprl/amak-exercise-prey-predator
 - https://github.com/alexandreprl/amak-exercise-color-cubes-game
 
-AMAK Framework : https://github.com/alexandreprl/amak
+Python
+- Framework: https://github.com/alexandreprl/amak-python
+- https://github.com/alexandreprl/amak-python-exercise-prey-predator
+- https://github.com/alexandreprl/amak-python-exercise-transporter-robots
 
 ## Decentralized Constraint Optimization Problems (DCOP)
 Master 2 ISM-AG, Université Toulouse 2 Jean Jaurès
