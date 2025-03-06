@@ -11,11 +11,16 @@ Java:
 - https://github.com/alexandreprl/amak-exercise-philosophers-dinner
 - https://github.com/alexandreprl/amak-exercise-prey-predator
 - https://github.com/alexandreprl/amak-exercise-color-cubes-game
+- https://github.com/alexandreprl/amak-exercise-transporter-robots
+- https://github.com/alexandreprl/amak-exercise-drone
+- https://github.com/alexandreprl/amak-example-ants
 
 Python
 - Framework: https://github.com/alexandreprl/amak-python
+- https://github.com/alexandreprl/amak-python-exercise-philosophers-dinner
 - https://github.com/alexandreprl/amak-python-exercise-prey-predator
 - https://github.com/alexandreprl/amak-python-exercise-transporter-robots
+- https://github.com/alexandreprl/amak-python-exercise-color-cubes-game
 
 Unity
 - Framework: https://github.com/alexandreprl/AMAK-Unity
