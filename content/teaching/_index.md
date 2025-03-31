@@ -21,6 +21,7 @@ Python
 - https://github.com/alexandreprl/amak-python-exercise-prey-predator
 - https://github.com/alexandreprl/amak-python-exercise-transporter-robots
 - https://github.com/alexandreprl/amak-python-exercise-color-cubes-game
+- https://github.com/alexandreprl/amak-python-exercise-drone
 
 Unity
 - Framework: https://github.com/alexandreprl/AMAK-Unity
