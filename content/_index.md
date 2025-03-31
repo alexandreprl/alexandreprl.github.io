@@ -32,8 +32,6 @@ sections:
       subtitle: ''
       text: |-
         I am a researcher in the SMAC team at the IRIT laboratory. My work focuses on the design and implementation of multi-agent systems.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
 #  - block: collection
