@@ -27,6 +27,9 @@ Unity
 - Framework: https://github.com/alexandreprl/AMAK-Unity
 - https://github.com/alexandreprl/amak-unity-exercise-transporter-robots
 
+Masterclass
+{{% staticref "uploads/Masterclass-SMA.pdf" "newtab" %}}Download resource{{% /staticref %}}
+
 ## Decentralized Constraint Optimization Problems (DCOP)
 Master 2 ISM-AG, Université Toulouse 2 Jean Jaurès
 
